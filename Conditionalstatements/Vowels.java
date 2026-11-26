@@ -15,5 +15,7 @@ public class Vowels {
         } else {
             System.out.println("It is not a vowel");
         }
+
+        sc.close();
     }
 }
